@@ -1,4 +1,6 @@
-# Library Portal
+# Library Portal, cloned from [CESBooks](https://github.com/tvergilio/CESBooks) by [tvergilio](https://github.com/tvergilio). 
+## Modified to work with my StudentPortal and Finance Microservices
+
 A microservices-based web application to manage a university library.
 The application is written in Python using the Flask framework.
 
